@@ -1,19 +1,21 @@
 .App {
-  text-align: center;
-  margin-top: 50px; 
+  /* text-align: center; */
+  margin: auto;
+  width: 50%;
+  padding-top: 50px;
 }
 .card {
+  margin: auto;
+  width: 500px;
   padding: 10px;
   background-color: rgb(236, 236, 236);
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  transition: 0.3s;
 }
 
 .item {
   background-color: white;
   border-radius: 5px;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  transition: 0.3s;
   height: 50px;
   vertical-align: middle;
   text-align: center;
