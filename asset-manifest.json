@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-drag-and-drop/static/css/main.492a51ec.chunk.css",
+    "main.js": "/react-drag-and-drop/static/js/main.8919e2a8.chunk.js",
+    "main.js.map": "/react-drag-and-drop/static/js/main.8919e2a8.chunk.js.map",
+    "runtime~main.js": "/react-drag-and-drop/static/js/runtime~main.edbf4f1c.js",
+    "runtime~main.js.map": "/react-drag-and-drop/static/js/runtime~main.edbf4f1c.js.map",
+    "static/js/2.cec6bdb8.chunk.js": "/react-drag-and-drop/static/js/2.cec6bdb8.chunk.js",
+    "static/js/2.cec6bdb8.chunk.js.map": "/react-drag-and-drop/static/js/2.cec6bdb8.chunk.js.map",
+    "index.html": "/react-drag-and-drop/index.html",
+    "precache-manifest.8c6d17aff7090344512ae3e12e49a989.js": "/react-drag-and-drop/precache-manifest.8c6d17aff7090344512ae3e12e49a989.js",
+    "service-worker.js": "/react-drag-and-drop/service-worker.js",
+    "static/css/main.492a51ec.chunk.css.map": "/react-drag-and-drop/static/css/main.492a51ec.chunk.css.map"
+  }
+}
