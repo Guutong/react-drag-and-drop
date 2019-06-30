@@ -70,6 +70,7 @@ class App extends Component {
                     >
                       {(provided, snapshot) => (
                         <div
+                          id={"item-"+item.id}
                           className="item"
                           ref={provided.innerRef}
                           {...provided.draggableProps}
