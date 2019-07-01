@@ -2,7 +2,7 @@ const space = 32;
 const keydown = 40;
 describe("Drag and drop", () => {
   it("reoder [item-1, item-2, item-3] to [item-2, item-3, item-1] ", () => {
-    cy.visit("http://localhost:3000");
+    cy.visit("/");
 
     cy.get(".item")
       .eq(0)
